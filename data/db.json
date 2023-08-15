@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Hello All",
+      "datetime": "August 14,2023 11:29:19 PM",
+      "body": "Good Night Friends"
+    },
+    {
+      "id": 4,
+      "title": "Enna lyf da ithu ",
+      "datetime": "August 15, 2023 10:09:26 AM",
+      "body": "\"Ellam Maarum\""
+    },
+    {
+      "id": 5,
+      "title": "Leo - Lokesh Kanagaraj",
+      "datetime": "August 15,2023 10:22:48 AM",
+      "body": "Leo movie officially launched october 19"
+    },
+    {
+      "id": 6,
+      "title": "Quotes",
+      "datetime": "August 15,2023 5:15:13 PM",
+      "body": "Great things, Take Times..."
+    }
+  ]
+}
